@@ -10,7 +10,8 @@
 
     |Charlie Jackson |Joanthan Gay |Michelle Welsh |
     |----------------|:-----------:|--------------:|
-
+    |![U+200E](https://github.com/JxviHub/SMX2-M8UF1A3-Adobe-Announces-the-End-of-Flash/blob/main/IrG50hD__400x400.jpg "imagen") |
+    
 2. #### ¿Como funciona?
 
     __Adobe Flash__ era una herramienta de autoría para la creación de contenido multimedia e interactivo. Permitía conectar componentes gráficos y programación técnica. Se podían crear nuevos objetos gráficos o integrar los ya existentes.
