@@ -4,6 +4,13 @@
 
     Adobe anunció el fin de __Flash__ en julio de 2017. __Flash__ fue una vez una de las formas más populares para que las personas transmitieran videos y jugaran juegos en línea.
 
+2. #### ¿Quien creo la idea?
+
+    Adobe Flash fue creado por un grupo de desarrolladores, entre los que se encontraban Charlie Jackson, Jonathan Gay y Michelle Welsh. 
+
+    |Charlie Jackson |Joanthan Gay |Michelle Welsh |
+    |----------------|:-----------:|--------------:|
+
 2. #### ¿Como funciona?
 
     __Adobe Flash__ era una herramienta de autoría para la creación de contenido multimedia e interactivo. Permitía conectar componentes gráficos y programación técnica. Se podían crear nuevos objetos gráficos o integrar los ya existentes.
