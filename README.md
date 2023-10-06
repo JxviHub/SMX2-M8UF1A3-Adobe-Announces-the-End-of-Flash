@@ -10,7 +10,7 @@
 
     |Charlie Jackson |Joanthan Gay |Michelle Welsh |
     |----------------|:-----------:|--------------:|
-    |![U+200E](https://github.com/JxviHub/SMX2-M8UF1A3-Adobe-Announces-the-End-of-Flash/blob/main/IrG50hD__400x400.jpg "imagen") |
+    |![U+200E](https://github.com/JxviHub/SMX2-M8UF1A3-Adobe-Announces-the-End-of-Flash/blob/main/IrG50hD__400x400.jpg "imagen") |![U+200E](https://github.com/JxviHub/SMX2-M8UF1A3-Adobe-Announces-the-End-of-Flash/blob/main/2350-JONGAY.jpg "imagen") |![U+200E]( "imagen")
     
 2. #### ¿Como funciona?
 
